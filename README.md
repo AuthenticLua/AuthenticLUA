@@ -1,5 +1,5 @@
 
-### Salut , je suis Tony est je suis un passioné d'informatique 👋
+### Salut , je suis .. est je suis un passioné d'informatique 👋
 [![Discord](https://cdn.discordapp.com/attachments/746358824788820019/754713553235214426/free-image-resizer-cropper_1.png)](https://discord.gg/k999Kk8UTC)
 ### Je suis le développeur officiel de AstraRP et Fondateur.
 
