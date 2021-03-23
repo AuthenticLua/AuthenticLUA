@@ -4,11 +4,10 @@
 ### Je suis le développeur/fondateur officiel de AstraRP.
 
  
-- 🔭 Je travaille actuellement sur un executeur fivem
+- 🔭 Je travaille actuellement sur un serveur fivem
 - 🌱 J'apprends le c++ et le Python actuellement 🤣
 - 👯 Je souhaite collaborer avec d'autres créateurs de contenu
 - 🥅 Objectifs 2021: apprendre le C++ et le python compléter mais compétence
-- ⚡ Fait amusant: j'aime dessiner, jouer et faire de L'Aïkido
 
 ### Langues et outils:
 
