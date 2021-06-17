@@ -3,11 +3,15 @@
 [![Discord](https://cdn.discordapp.com/attachments/746358824788820019/754713553235214426/free-image-resizer-cropper_1.png)](https://discord.gg/k999Kk8UTC)
 ### Ouais c'est moi.
 
+![AuthenticLUA](https://github-readme-stats.vercel.app/api?username=AuthenticLUA&theme=dark&show_icons=true) 
  
-- 🔭 Je travaille actuellement sur un serveur fivem
-- 🌱 J'apprends le c++ et le Python actuellement 🤣
-- 👯 Je souhaite collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs 2021: apprendre le C++ et le python compléter mais compétence
+ 
+- I'm an Engineering student, French.
+- I code for fun and play games mostly.
+- My Favorite Programming Language is Lua.
+- I mostly use [Visual Studio Code](https://code.visualstudio.com/) for coding.
+
+
 
 ### Langues et outils:
 
