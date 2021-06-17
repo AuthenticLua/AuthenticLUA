@@ -3,7 +3,7 @@
 [![Discord](https://cdn.discordapp.com/attachments/746358824788820019/754713553235214426/free-image-resizer-cropper_1.png)](https://discord.gg/k999Kk8UTC)
 ### Ouais c'est moi.
 
-![AuthenticLUA](https://github-readme-stats.vercel.app/api?username=AuthenticLUA&theme=dark&show_icons=true?theme=dracula) 
+![AuthenticLUA](https://github-readme-stats.vercel.app/api?username=AuthenticLUA&theme=dracula&show_icons=true) 
  
  
 - I'm an Engineering student, French.
